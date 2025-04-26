@@ -4,6 +4,9 @@
 
 # Features : 
 •	Add new expense with details ( amount ,date, category, description).
+
 •	Categorize expense for better tracking.
+
 •	View expense history with filtering options (category , date range).
+
 •	Generate expense summaries by category.
